@@ -1,0 +1,28 @@
+.mota{
+    transform: translate(-50%, -50%);
+    position: absolute;
+    width: 280px;
+    height: 150px;
+    left: 50%;
+    top: 90%;
+}
+.cot{
+    position: relative;
+}
+.color{
+    background-color: burlywood;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    width: 280px;
+    height: 150px;
+    left: 50%;
+    top: 90%;
+    opacity: 95%;
+}
+.anh:hover{
+    width: 290px;
+}
+.nav-item{
+    display: flex;
+    height: 50px;
+}
